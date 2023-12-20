@@ -23,7 +23,4 @@ Plus, I've put the project on Netlify. Just click the <a href="https://moonlit-k
 If you've got ideas or want to help, I'm all ears! Your contributions can make the project even better. 
 Thanks for stopping by and checking out what I've been working on. Happy coding! 🚀👩‍💻
 
-### Snapshots: 
-- 1 <img width="1000" alt="Screenshot" src="https://github.com/mutasim77/wildberries-clone/assets/96326525/2fc88b93-8532-4710-9e1b-70fa426bd93b">
-- 2 <img width="1000" alt="Screenshot" src="https://github.com/mutasim77/wildberries-clone/assets/96326525/29e323f3-8ca7-4652-b710-28bbc4cb8306">
-- 3 <img width="1000" alt="Screenshot" src="https://github.com/mutasim77/wildberries-clone/assets/96326525/8e47be43-d908-4951-a2cb-1b1c63cc56d3">
+
